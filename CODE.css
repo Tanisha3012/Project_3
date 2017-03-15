@@ -1,0 +1,40 @@
+body {
+    font-family: "Lato", sans-serif;
+    color: crimson;
+    font-weight: 300;
+    background: cornsilk;
+}
+
+.text-muted {
+    color: #02b3e4;
+}
+
+.text-thin {
+    font-weight: 200;
+}
+
+.puppy_info {
+  color: black;
+  font-family: comic sans MS;
+}
+
+header {
+  font-size: 12px;
+  color: darkblue;
+}
+
+#img {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.links {
+    color: purple;
+}
+
+#hog {
+  width: 120px;
+}
